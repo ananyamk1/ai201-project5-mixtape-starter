@@ -73,7 +73,7 @@ Two things worth noting. A `Rating` is its own table with a unique constraint on
 
 ---
 
-## Milestones 2 & 3
+## Milestones 2 & 3 - Root Cause Analysis
 
 I reproduced each bug before changing any code. Verified fixes with a clean re-seed: all 15 tests pass, plus direct checks on both sides of every boundary. Seed facts used below: the playlist "Late Night Vibes" has 7 songs. The song "Crown Heights Anthem" has 3 tags and was shared by simone.
 
